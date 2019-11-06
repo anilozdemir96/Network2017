@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Color of edges , adjusted by the weigths which corresponds common number of publication.Size of nodes adjusted by Degree of that node.",
-    "intro": "In this visualization, one may see the  faculty members' publication network of 2017 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not.\n",
+    "intro": "In this visualization, one may see the  faculty members\u0027\u0027 publication network of 2017 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not.\n",
     "title": "2017 Sabanci University Publication Network"
   },
   "legend": {
